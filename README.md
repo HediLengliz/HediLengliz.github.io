@@ -1,2 +1,2 @@
 # HediLengliz.github.io
-Proffessional Portfolio
+professional Portfolio
