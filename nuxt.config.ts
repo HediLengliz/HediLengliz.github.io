@@ -3,6 +3,6 @@ export default defineNuxtConfig({
   compatibilityDate: '2024-11-01',
   devtools: { enabled: true },
   app: {
-    baseURL: '/', // GitHub Pages base URL
+    baseURL: 'https://hedilengliz.github.io/', // GitHub Pages base URL
   }
 })
