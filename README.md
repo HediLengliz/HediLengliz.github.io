@@ -3,7 +3,7 @@ hey there, this is my professional portfolio, it contains all the projects that 
 #### Technical Skills: VUE, SPRING, PHP, JAVA, SQL/NOSQL
 ###### Contact:
 - Email: lengliz01hedi@gmail.com
-- LinkedIn: [Hedi Lengliz](https://www.linkedin.com/in/hedi-lengliz-0b1b1b1b1/)
+- LinkedIn: [Hedi Lengliz](https://www.linkedin.com/in/hedi-lengliz/)
 - Phone: +216 29 472 997
 
 
