@@ -1,8 +1,6 @@
-# professional Portfolio
+# Portfolio
 ![Hedi Lengliz](/assests/images/hd.jpeg)
-
-
-
+###
 
 hey there, this is my professional portfolio, it contains all the projects that I have worked on, and the skills that I have acquired during my journey as a software engineer student. 
 #### Technical Skills: VUE, SPRING, PHP, JAVA, SQL/NOSQL
