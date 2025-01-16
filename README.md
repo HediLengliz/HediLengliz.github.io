@@ -14,8 +14,8 @@ hey there, this is my professional portfolio, it contains all the projects that 
 ##### ![Description](/assests/images/job-description.png)  : Academic Cross-Platform(web / desktop / mobile) Project where we Digitalized AUTO / PROPERTY / HEALTH Insurance workflow that facilitates insurance process instead of filling docs you can file them by few clicksAcademic
 ![Description](/assests/images/java.png)    ![Description](/assests/images/php.png)   ![Description](/assests/images/flutter.png)   ![mysql](/assests/images/mysql.png)
 ### Work Experience:
-#####  Summer intenr At EuromedInnov SAS 
-![calendar](/assests/images/form.jpeg) ![calendar](/assests/images/form1.jpeg)
+###  Summer Intern At EuromedInnov SAS     
+![calendar](/assests/images/eur.png)
 ##### ![calendar](/assests/images/calendar.png) : Date July 2024 - Aug 2024
 ##### ![Description](/assests/images/job-description.png)  : developed a web app that manages and determine how applicable / digital / mature company is including calculating its score and comparing it to max score based on domain and number of employees as for the technologies implemented for the login we used JWT AUTH and reset password with link and token using smtp
 ![calendar](/assests/images/jwt.png) **![calendar](/assests/images/react.png)** **![calendar](/assests/images/spring.png)** **![calendar](/assests/images/msql.png)**
