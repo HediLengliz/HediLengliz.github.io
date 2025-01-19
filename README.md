@@ -1,6 +1,5 @@
 # Portfolio
 ![Hedi Lengliz](/assests/images/hd.jpeg)
-###
 
 hey there, this is my professional portfolio, it contains all the projects that I have worked on, and the skills that I have acquired during my journey as a software engineer student. 
 #### Technical Skills: ![vue](/assests/images/vue.png) ![jva](/assests/images/jva.png)  ![spring](/assests/images/spring.png) ![dotnet](/assests/images/dotnet.png) ![ang](/assests/images/ang.png) ![ts](/assests/images/ts.png) ![mgdb](/assests/images/mgdb.png)  ![msql](/assests/images/msql.png) ![react](/assests/images/react.png)
