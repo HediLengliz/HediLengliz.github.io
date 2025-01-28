@@ -12,7 +12,7 @@ hey there, this is my professional portfolio, it contains all the projects that 
 ### Projects:
 ##### Protechtini ![Protechtini](/assests/images/voiture.png)
 ##### ![calendar](/assests/images/calendar.png) : Date Feb 2024 - May 2024
-##### ![Description](/assests/images/job-description.png)  : Academic Cross-Platform(web / desktop / mobile) Project where we Digitalized AUTO / PROPERTY / HEALTH Insurance workflow that facilitates insurance process instead of filling docs you can file them by few clicksAcademic
+##### ![Description](/assests/images/job-description.png)  : Academic Cross-Platform(web / desktop / mobile) Project where we Digitalized AUTO / PROPERTY / HEALTH Insurance workflow that facilitates insurance process instead of filling docs you can file them by few clicks.
 ![Description](/assests/images/java.png)    ![Description](/assests/images/php.png)   ![Description](/assests/images/flutter.png)   ![mysql](/assests/images/mysql.png)
 ### Work Experience:
 ###  Summer Intern At EuromedInnov SAS     
