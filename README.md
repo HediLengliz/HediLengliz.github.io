@@ -4,7 +4,7 @@
 hey there, this is my professional portfolio, it contains all the projects that I have worked on, and the skills that I have acquired during my journey as a software engineer student. 
 ### Resume
 [Resume](./assests/docs/Resume.pdf)
-#### Technical Skills: ![vue](/assests/images/vue.png) ![jva](/assests/images/jva.png)  ![spring](/assests/images/spring.png) ![dotnet](/assests/images/dotnet.png) ![ang](/assests/images/ang.png) ![ts](/assests/images/ts.png) ![mgdb](/assests/images/mgdb.png)  ![msql](/assests/images/msql.png) ![react](/assests/images/react.png) ![python](/assests/images/python.png)
+#### Technical Skills: ![vue](/assests/images/vue.png) ![jva](/assests/images/jva.png)  ![spring](/assests/images/spring.png) ![dotnet](/assests/images/dotnet.png) ![ang](/assests/images/ang.png) ![ts](/assests/images/ts.png) ![mgdb](/assests/images/mgdb.png)  ![msql](/assests/images/msql.png) ![react](/assests/images/react.png) ![python](/assests/images/python.png) ![GitLab](/assests/images/GitLab.png)
 ### Contact:
 ##### ![email](/assests/images/email.png) :  lengliz01hedi@gmail.com
 ##### ![linkedin](/assests/images/linkedin.png) : [Hedi Lengliz](https://www.linkedin.com/in/hedi-lengliz/)
