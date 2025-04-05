@@ -7,7 +7,7 @@ hey there, this is my professional portfolio, it contains all the projects that 
 #### Technical Skills: ![vue](/assests/images/vue.png) ![jva](/assests/images/jva.png)  ![spring](/assests/images/spring.png) ![dotnet](/assests/images/dotnet.png) ![ang](/assests/images/ang.png) ![ts](/assests/images/ts.png) ![mgdb](/assests/images/mgdb.png)  ![msql](/assests/images/msql.png) ![react](/assests/images/react.png) ![python](/assests/images/python.png) ![GitLab](/assests/images/GitLab.png)  ![Docker](/assests/images/docker.png) ![GitHub](/assests/images/github.png)
 ### Contact:
 ##### ![email](/assests/images/email.png) :  lengliz01hedi@gmail.com
-##### ![linkedin](/assests/images/linkedin.png) : [Hedi Lengliz](https://www.linkedin.com/in/hedi-lengliz/)
+##### ![linkedin](/assests/images/linkedin.png) : [Hedi Lengliz](https://www.linkedin.com/in/hedi-lengliz)
 ##### ![phone](/assests/images/mobile.png) : +216 29 472 997
 ### Projects:
 ##### Protechtini ![Protechtini](/assests/images/voiture.png)
